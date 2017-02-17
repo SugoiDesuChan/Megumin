@@ -1,0 +1,3 @@
+# Megumin
+
+sugoi readme
