@@ -1,0 +1,73 @@
+body {
+	background-color: firebrick;
+}
+#yo {
+	text-align: center;
+	margin-top: 50px;
+	}
+
+#bananya {
+	text-align: center;
+	}
+	
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	right:50%;
+	margin-left:-254px;
+	margin-right:-254px;
+	text-align: center;
+	
+}
+
+ li{
+	display: inline;
+	border: 3px;
+	font-family: Segoe UI;
+	color: #8B1C62;
+	border-radius: 5px 5px;
+	background-color: pink;
+}
+
+a:link {
+	color: #8B1C62;
+	background-color: pink;
+	font-family: Segoe UI;
+	border-radius: 5px 5px;
+}
+
+
+
+#ka{
+	width: 1282px;
+	height: 100px;
+	color: #8B1C62;
+	background-color: lightcoral;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+}
+
+#bu, #nu, #zu{
+	display:block;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#explosionvideo{
+	display:block;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#sugoi{
+
+	top:10px;
+	text-align: center;
+	display: inline;
+}
+
+
